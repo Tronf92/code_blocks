@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1382816061 source:c:\users\ady\desktop\not for delete!!!\code blocks\e 68\angajat.cpp
+	"Angajat.h"
+	<string.h>
+	<iostream>
+
+1382816359 c:\users\ady\desktop\not for delete!!!\code blocks\e 68\angajat.h
+	<string.h>
+	<iostream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1382814627 source:c:\users\ady\desktop\not for delete!!!\code blocks\e 64\game lobby\main.cpp
+	<vector>
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+
